@@ -1,0 +1,51 @@
+STT,Season,Purchase history , Income,Age,Buy
+1,spring,buy a lot ,hight,young ,No
+2,summer,buy some ,hight,middle age,Yes
+3,winter ,have not bought yet,hight,ages,No
+4,autumn,buy some ,hight,middle age,Yes
+5,spring,buy a lot ,normal,ages,Yes
+6,summer,buy some ,normal,young ,Yes
+7,autumn,buy a lot ,normal,middle age,Yes
+8,winter ,have not bought yet,hight,young ,Yes
+9,autumn,buy some ,normal,middle age,No
+10,summer,buy a lot ,normal,young ,Yes
+11,winter ,have not bought yet,normal,middle age,No
+12,summer,buy a lot ,hight,middle age,Yes
+13,spring,buy some ,normal,ages,Yes
+14,autumn,buy a lot ,hight,young ,Yes
+15,spring,buy a lot ,hight,young ,No
+16,summer,buy some ,hight,middle age,Yes
+17,winter ,have not bought yet,hight,ages,No
+18,autumn,buy some ,hight,middle age,Yes
+19,spring,buy a lot ,normal,ages,Yes
+20,summer,buy some ,normal,young ,Yes
+21,autumn,buy a lot ,normal,middle age,Yes
+22,winter ,have not bought yet,hight,young ,Yes
+23,autumn,buy some ,normal,middle age,No
+24,summer,buy a lot ,normal,young ,Yes
+25,winter ,have not bought yet,normal,middle age,No
+26,summer,buy a lot ,hight,middle age,Yes
+27,spring,buy some ,normal,ages,Yes
+28,autumn,buy a lot ,hight,young ,Yes
+29,autumn,buy some ,hight,middle age,Yes
+30,spring,buy a lot ,normal,ages,Yes
+31,summer,buy some ,normal,young ,Yes
+32,autumn,buy a lot ,normal,middle age,Yes
+33,winter ,have not bought yet,hight,young ,Yes
+34,autumn,buy some ,normal,middle age,No
+35,summer,buy a lot ,normal,young ,Yes
+36,winter ,have not bought yet,normal,middle age,No
+37,summer,buy a lot ,hight,middle age,Yes
+38,spring,buy some ,normal,ages,Yes
+39,autumn,buy a lot ,hight,young ,Yes
+40,spring,buy a lot ,hight,young ,No
+41,summer,buy some ,hight,middle age,Yes
+42,winter ,have not bought yet,hight,ages,No
+43,autumn,buy some ,hight,middle age,Yes
+44,spring,buy a lot ,normal,ages,Yes
+45,summer,buy some ,normal,young ,Yes
+46,autumn,buy a lot ,normal,middle age,Yes
+47,winter ,have not bought yet,hight,young ,Yes
+48,autumn,buy a lot ,hight,young ,Yes
+49,spring,buy a lot ,hight,young ,No
+50,winter ,have not bought yet,normal,middle age,No
